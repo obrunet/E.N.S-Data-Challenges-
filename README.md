@@ -9,4 +9,5 @@
 - Crack the neural code of the brain
 - Predict brain deep sleep slow oscillation
 - Solve 2x2x2 Rubik's cube
+
 i haven't time to try those challs but they seem interesting so i've made a backup of the data sets and explanations...
